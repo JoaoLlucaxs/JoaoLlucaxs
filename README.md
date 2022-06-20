@@ -11,7 +11,7 @@
 
 <div align="center">
 <img width="450em" alt="Status Github João Lucas" src="https://github-readme-stats.vercel.app/api?username=JoaoLlucaxs&show_icons=true&theme=dracula" />
-<img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoBinhara&layout=compact&theme=dracula"/>
+<img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLlucaxs&layout=compact&theme=dracula"/>
 </div>
 
 ![Snake animation](https://github.com/JoaoLlucaxs/JoaoLlucaxs/blob/output/github-contribution-grid-snake.svg)
