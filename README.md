@@ -1,8 +1,8 @@
 ### Oi, sou o João -aka Queiroz 👋👨‍💻
 ##Sou estudante, desenvolvedor frontend
 
-💻 Aperfeiçoando em JavaScript / React
-✔️ Planos para 2022 : Evoluir nas minhas habilidades 
+-💻 Aperfeiçoando em JavaScript / React
+-✔️ Planos para 2022 : Evoluir nas minhas habilidades 
 
 ### Conecte comigo:
 <div>
