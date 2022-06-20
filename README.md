@@ -1,16 +1,17 @@
-### Hi there 👋
+### Oi, sou o João -aka Queiroz 👋👨‍💻
+##Sou estudante, desenvolvedor frontend
 
-<!--
-**JoaoLlucaxs/JoaoLlucaxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aperfeiçoando em JavaScript / React
+✔️ Planos para 2022 : Evoluir nas minhas habilidades 
 
-Here are some ideas to get you started:
+### Conecte comigo:
+<div>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-queiroz-aa6313230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style =for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img width="450em" alt="Status Github João Lucas" src="https://github-readme-stats.vercel.app/api?username=JoaoLlucaxs&show_icons=true&theme=dracula" />
+<img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianoBinhara&layout=compact&theme=dracula"/>
+</div>
+
+![Snake animation](https://github.com/JoaoLlucaxs/JoaoLlucaxs/blob/output/github-contribution-grid-snake.svg)
