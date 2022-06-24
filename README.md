@@ -3,7 +3,7 @@
 
 -💻 Aperfeiçoando em JavaScript / React
 
--✔️ Planos para 2022 : Evoluir nas minhas habilidades 
+-✔️ Planos para 2022 : Continuar evoluindo 
 
 ### Conecte comigo:
 <div>
