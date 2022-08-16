@@ -1,5 +1,7 @@
 ### Olá, sou o João Queiroz 👋👨‍💻
-##Sou desenvolvedor frontend júnior
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=48592F&center=falso&vCenter=falso&width=435&lines=Desenvolvedor+Frontend" alt="Typing SVG" /></a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=48592F&center=falso&vCenter=falso&width=435&lines=Desenvolvedor+Frontend)](https://git.io/typing-svg)
 
 -💻 Aperfeiçoando em JavaScript / React
 
