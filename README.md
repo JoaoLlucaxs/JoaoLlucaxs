@@ -8,7 +8,7 @@
 -✔️ Planos para 2022 : Continuar evoluindo 
 
 -📫 Como me encontrar : joaodevelopment7@gmail.com 
--Praticando : Inglês / TypeScript
+
 
 ### Conecte comigo:
 <div>
