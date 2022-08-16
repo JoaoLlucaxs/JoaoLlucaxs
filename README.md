@@ -2,9 +2,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=48592F&center=falso&vCenter=falso&width=435&lines=Desenvolvedor+Frontend" alt="Typing SVG" /></a>
 
 
--💻 Aperfeiçoando em JavaScript / React
+-💻 Aperfeiçoando em JavaScript / React / Next
+- 👨‍💻 Visite meu Portfólio : https://joaollucaxs.github.io/Portfolio_/
 
 -✔️ Planos para 2022 : Continuar evoluindo 
+
+-📫 Como me encontrar : joaodevelopment7@gmail.com 
+-Praticando : Inglês / TypeScript
 
 ### Conecte comigo:
 <div>
@@ -15,3 +19,4 @@
 <img width="450em" alt="Status Github João Lucas" src="https://github-readme-stats.vercel.app/api?username=JoaoLlucaxs&show_icons=true&theme=dark" />
 <img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLlucaxs&layout=compact&theme=dark"/>
 </div>
+
