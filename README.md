@@ -27,6 +27,19 @@
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=007ACC)
+![GIT](https://img.shields.io/badge/GIT-20232A?style=for-the-badge&logo=git&logoColor=E44C30)
+![Styled-componets](https://img.shields.io/badge/styled--components-20232A?style=for-the-badge&logo=styled-components&logoColor=DB7093)
+![Netlify](https://img.shields.io/badge/Netlify-20232A?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![NodeJS](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+
+## SoftSkills:
+📍 Boa relação interpessoal
+- Curioso
+- Criativo
+- Trabalho em equipe
+- Comunicação objetiva
+- Dedicado / Focado
  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=48592F&height=120&section=footer"/>
