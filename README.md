@@ -5,7 +5,7 @@
  atualmente sou frontEnd mas estou iniciando uma jornada para me tornar um FullStack , gosto do que faço, me considero uma pessoa focada
  o que já sei eu vou aprimorando mais e mais e o que não sei busco colocar em prática até me sentir capacitado estou em constante aprendizado. 
 
--💻 Aperfeiçoando em JavaScript / TypeScript / React / Next 
+-💻 Aperfeiçoando em JavaScript / TypeScript / React / Next / Node
 - 👨‍💻 Visite meu Portfólio : https://joaollucaxs.github.io/Portfolio_/
 
 -✔️ Planos: Evoluir cada dia mais , ser fluente em Inglês
