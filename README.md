@@ -7,11 +7,10 @@
 
 -💻 Aperfeiçoando em JavaScript / TypeScript / React (CRA / VITE) / Next / Styled-Components / Sass
 
--📝 BASE - ApiRest , Firebase, Microserviços
+-📝 BASE - ApiRest , Firebase, Microserviços , InglêS ( Praticando)
 
 - 👨‍💻 Visite meu Portfólio : https://joaollucaxs.github.io/Portfolio_/
 
--✔️ Planos: Evoluir cada dia mais , ser fluente em Inglês
 
 -📫 Como me encontrar : joaodevelopment7@gmail.com 
 
