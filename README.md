@@ -1,4 +1,4 @@
-### Olá, sou o João Queiroz 👋👨‍💻
+### Olá, sou o João Queiroz seja bem vindo(a) 👋👨‍💻
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=48592F&center=falso&vCenter=falso&width=435&lines=Desenvolvedor+FrontEnd" alt="Typing SVG" /></a>
 
 ☺👋 Me chamo João, tenho 21 anos e iniciei como desenvolvedor a um tempo e desde então venho melhorando cada dia mais,
@@ -10,6 +10,8 @@
 -📝 BASE - ApiRest , Firebase, Microserviços , InglêS ( Praticando)
 
 - 👨‍💻 Visite meu Portfólio : https://joaollucaxs.github.io/Portfolio_/
+
+••Aperfeiçoando em desenvolvimento web
 
 
 -📫 Como me encontrar : joaodevelopment7@gmail.com 
