@@ -7,7 +7,7 @@
 
 -💻 Aperfeiçoando em JavaScript / TypeScript / React (CRA / VITE) / Next / Styled-Components / Sass
 
--📝 BASE - ApiRest , Firebase, Microserviços , InglêS ( Praticando)
+-📝 BASE - ApiRest , Firebase, Microserviços , Strapi ,InglêS ( Praticando)
 
 - 👨‍💻 Visite meu Portfólio : https://joaollucaxs.github.io/Portfolio_/
 
