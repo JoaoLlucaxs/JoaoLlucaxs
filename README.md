@@ -5,7 +5,7 @@
  atualmente sou frontEnd mas futuramente tenho desejo em me tornar FullStack , gosto do que faço, me considero uma pessoa focada
  o que já sei eu vou aprimorando mais e mais e o que não sei busco colocar em prática até me sentir capacitado estou em constante aprendizado. 
 
--💻 Aperfeiçoando em JavaScript / TypeScript / React (CRA / VITE) / Next / Styled-Components / Sass
+-💻 Aperfeiçoando em JavaScript / TypeScript / React (CRA / VITE) / Next / Styled-Components / Sass/ Scss
 
 -📝 BASE - ApiRest , Firebase, Microserviços , Strapi ,InglêS ( Praticando)
 
