@@ -2,12 +2,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=48592F&center=falso&vCenter=falso&width=435&lines=Desenvolvedor+FrontEnd" alt="Typing SVG" /></a>
 
 ☺👋 Me chamo João, tenho 21 anos e iniciei como desenvolvedor a um tempo e desde então venho melhorando cada dia mais,
- atualmente sou frontEnd mas futuramente tenho desejo em me tornar FullStack , gosto do que faço, me considero uma pessoa focada
+ atualmente sou frontEnd e desenvolvedor Flutter /Dart , gosto do que faço, me considero uma pessoa focada
  o que já sei eu vou aprimorando mais e mais e o que não sei busco colocar em prática até me sentir capacitado estou em constante aprendizado. 
 
--💻 Aperfeiçoando em JavaScript / TypeScript / React (CRA / VITE) / Next / Styled-Components / Sass - Gulp
+-💻 Aperfeiçoando em JavaScript / TypeScript / React (CRA / VITE) / Styled-Components / Sass - Gulp
 
--📝 BASE - ApiRest , Firebase, Microserviços , Strapi ,InglêS ( Praticando)
+-💻 Flutter /Dart
+
+-📝 BASE - ApiRest , Firebase, Microserviços(Andamento) ,InglêS ( Praticando)
 
 - 👨‍💻 Visite meu Portfólio : https://joaollucaxs.github.io/Portfolio_/
 
