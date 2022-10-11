@@ -6,6 +6,7 @@
  o que já sei eu vou aprimorando mais e mais e o que não sei busco colocar em prática até me sentir capacitado estou em constante aprendizado. 
 
 -💻 Aperfeiçoando em JavaScript / TypeScript / React (CRA / VITE) / Styled-Components / Sass - Gulp
+-👩‍💻-Gestão Ágil
 
 -💻 Flutter /Dart
 
