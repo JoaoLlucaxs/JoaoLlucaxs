@@ -1,5 +1,5 @@
 ### Olá, sou o João Queiroz seja bem vindo(a) 👋👨‍💻
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=48592F&center=falso&vCenter=falso&width=435&lines=Desenvolvedor+FrontEnd+Mobile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=48592F&center=falso&vCenter=falso&width=435&lines=Desenvolvedor+FrontEnd+/+Mobile" alt="Typing SVG" /></a>
 
 ☺👋 Me chamo João, tenho 21 anos e iniciei como desenvolvedor a um tempo e desde então venho melhorando cada dia mais,
  atualmente sou frontEnd e desenvolvedor Flutter /Dart , gosto do que faço, me considero uma pessoa focada
@@ -28,7 +28,7 @@
 
 
 <div align="center">
-<img width="450em" alt="Status Github João Lucas" src="https://github-readme-stats.vercel.app/api?username=JoaoLlucaxs&show_icons=true&theme=dark" />
+<img width="450em" alt="Status Github João Lucas" src="https://github-readme-stats.vercel.app/api?username=JoaoLlucaxs&show_icons=true&theme=dark"/>
 <img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLlucaxs&layout=compact&theme=dark"/>
 </div>
 
