@@ -11,7 +11,7 @@
 
 -💻 Flutter /Dart (Iniciante)
 
--📝 BASE - ApiRest , Firebase, Microserviços(Andamento) ,InglêS - Tailwind ( Praticando)
+-📝 BASE - ApiRest , Firebase, Axios, Microserviços(Andamento) ,InglêS - Tailwind ( Praticando)
 
 - 👨‍💻 Visite meu Portfólio : https://joaollucaxs.github.io/Portfolio_/
 
