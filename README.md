@@ -5,13 +5,13 @@
  atualmente sou frontEnd e desenvolvedor (Flutter /Dart- Iniciante) , gosto do que faço, me considero uma pessoa focada
  o que já sei eu vou aprimorando mais e mais e o que não sei busco colocar em prática até me sentir capacitado estou em constante aprendizado. 
 
--💻 Aperfeiçoando em JavaScript / TypeScript / React (CRA / VITE) / Styled-Components / Sass - Gulp
+-💻 Aperfeiçoando em JavaScript / TypeScript / React (CRA / VITE) / Styled-Components / Sass 
 
 -👩‍💻-Gestão Ágil
 
 -💻 Flutter /Dart (Iniciante)
 
--📝 BASE - ApiRest , Firebase, Microserviços(Andamento) ,InglêS ( Praticando)
+-📝 BASE - ApiRest , Firebase, Microserviços(Andamento) ,InglêS - Tailwind ( Praticando)
 
 - 👨‍💻 Visite meu Portfólio : https://joaollucaxs.github.io/Portfolio_/
 
