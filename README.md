@@ -9,12 +9,12 @@
 
 -💻 Flutter /Dart (Beginner)
 
--📝 BASE - ApiRest , Firebase, Axios, Microserviços(Andamento) ,InglêS - Tailwind ( Praticando)
+-📝 BASIS - ApiRest , Firebase, Axios, Microserviços(practicing) ,English and Bootstrap (practicing)
 
 - 👨‍💻 Visit my Portfólio : https://joaollucaxs.github.io/Portfolio_/
 
 
--📫 Where to find me : joaodevelopment7@gmail.com 
+-📫 Where to find me : joaodevelopment7@gmail.com or queirozjoaolucas8
 
 
 ### Connect with me:
