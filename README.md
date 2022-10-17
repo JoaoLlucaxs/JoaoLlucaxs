@@ -1,27 +1,23 @@
-### Olá, sou o João Queiroz seja bem vindo(a) 👋👨‍💻
+### João Queiroz, Be welcome(a) 👋👨‍💻
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=48592F&center=falso&vCenter=falso&width=435&lines=Desenvolvedor+FrontEnd+/+Mobile" alt="Typing SVG" /></a>
 
-☺👋 Me chamo João, tenho 21 anos e iniciei como desenvolvedor a um tempo e desde então venho melhorando cada dia mais,
- atualmente sou frontEnd e desenvolvedor (Flutter /Dart- Iniciante) , gosto do que faço, me considero uma pessoa focada
- o que já sei eu vou aprimorando mais e mais e o que não sei busco colocar em prática até me sentir capacitado estou em constante aprendizado. 
+- Hello, my name is João Lucas Front-end Web Developer. Over time what I've been studying and putting into my projects has provided me with certain experiences and technical skills necessary to be part of an IT team with suitable and sustainable software solutions on any web-based platform.
 
--💻 Aperfeiçoando em JavaScript / TypeScript / React (CRA / VITE) / Styled-Components / Sass 
+-💻 Perfecting in JavaScript / TypeScript / React (CRA / VITE) / Styled-Components / Sass 
 
 -👩‍💻-Gestão Ágil
 
--💻 Flutter /Dart (Iniciante)
+-💻 Flutter /Dart (Beginner)
 
 -📝 BASE - ApiRest , Firebase, Axios, Microserviços(Andamento) ,InglêS - Tailwind ( Praticando)
 
-- 👨‍💻 Visite meu Portfólio : https://joaollucaxs.github.io/Portfolio_/
-
-••Aperfeiçoando em desenvolvimento web
+- 👨‍💻 Visit my Portfólio : https://joaollucaxs.github.io/Portfolio_/
 
 
--📫 Como me encontrar : joaodevelopment7@gmail.com 
+-📫 Where to find me : joaodevelopment7@gmail.com 
 
 
-### Conecte comigo:
+### Connect with me:
 <div>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-queiroz-aa6313230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style =for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
@@ -42,14 +38,6 @@
 ![Netlify](https://img.shields.io/badge/Netlify-20232A?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 ![NodeJS](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 
-## SoftSkills:
-📍 Boa relação interpessoal
-- Curioso
-- Criativo
-- Trabalho em equipe
-- Comunicação objetiva
-- Dedicado / Focado
- 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000&height=120&section=footer"/>
 
