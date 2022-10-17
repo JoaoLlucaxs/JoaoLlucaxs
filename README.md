@@ -1,5 +1,5 @@
 ### João Queiroz, Be welcome(a) 👋👨‍💻
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=48592F&center=falso&vCenter=falso&width=435&lines=FrontEnd+Web Developer+/+Mobile" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=48592F&center=falso&vCenter=falso&width=435&lines=FrontEnd+Web+Developer+/+Mobile" alt="Typing SVG" /></a>
 
 - Hello, my name is João Lucas Front-end Web Developer. Over time what I've been studying and putting into my projects has provided me with certain experiences and technical skills necessary to be part of an IT team with suitable and sustainable software solutions on any web-based platform.
 
