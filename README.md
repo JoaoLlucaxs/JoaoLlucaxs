@@ -1,7 +1,7 @@
 ### João Queiroz, Be welcome(a) 👋👨‍💻
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=48592F&center=falso&vCenter=falso&width=435&lines=FrontEnd+Web+Developer+/+Mobile" alt="Typing SVG" /></a>
 
-- Hello, my name is João Lucas Front-end Web Developer. Over time what I've been studying and putting into my projects has provided me with certain experiences and technical skills necessary to be part of an IT team with suitable and sustainable software solutions on any web-based platform.
+- Olá, meu nome é João Lucas Desenvolvedor Web Front-end. Ao longo do tempo, o que venho estudando e colocando em meus projetos me proporcionou certas experiências e habilidades técnicas necessárias para fazer parte de uma equipe de TI com soluções de software adequadas e sustentáveis em qualquer plataforma baseada na web.Iniciei em desenvolvimento mobile com Flutter e em breve colocarei projetos para solidificar meus conhecimentos.
 
 -💻 Perfecting in JavaScript / TypeScript / React (CRA / VITE) / Styled-Components / Sass 
 
