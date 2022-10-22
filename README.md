@@ -5,7 +5,7 @@
 
 -💻 Perfecting in JavaScript / TypeScript / React (CRA / VITE) / Styled-Components / Sass 
 
--👩‍💻-Gestão Ágil
+-👨‍💻-Gestão Ágil
 
 -💻 Flutter /Dart (Beginner)
 
