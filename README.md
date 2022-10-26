@@ -7,9 +7,9 @@
 
 -👨‍💻-Gestão Ágil
 
--💻 Flutter /Dart (Beginner)
+-💻 Flutter/Dart (Beginner)
 
--📝 BASIS - ApiRest , Firebase, Axios, Microserviços(practicing) ,English and Bootstrap (practicing)
+-📝 BASIS - ApiRest ,PostgreSql, Firebase, Axios, Microserviços(practicing) ,English and Bootstrap (practicing)
 
 - 👨‍💻 Visit my Portfólio : https://joaollucaxs.github.io/Portfolio_/
 
