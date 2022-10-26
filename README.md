@@ -3,7 +3,7 @@
 
 - Olá, meu nome é João Lucas Desenvolvedor Web Front-end. Ao longo do tempo, o que venho estudando e colocando em meus projetos me proporcionou certas experiências e habilidades técnicas necessárias para fazer parte de uma equipe de TI com soluções de software adequadas e sustentáveis em qualquer plataforma baseada na web.Iniciei em desenvolvimento mobile com Flutter e em breve colocarei projetos para solidificar meus conhecimentos.
 
--💻 Perfecting in JavaScript / TypeScript / React (CRA / VITE) / Styled-Components / Sass 
+-💻 Perfecting in JavaScript / TypeScript / React (CRA / VITE) / Redux / Styled-Components / Sass 
 
 -👨‍💻-Gestão Ágil
 
