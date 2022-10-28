@@ -28,6 +28,7 @@
 <img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLlucaxs&layout=compact&theme=dark"/>
 </div>
 
+![Snake animation](https://github.com/AdrianoBinhara/AdrianoBinhara/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
