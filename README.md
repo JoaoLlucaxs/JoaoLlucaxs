@@ -1,20 +1,22 @@
 ### João Queiroz, Be welcome(a) 👋👨‍💻
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=fff&center=falso&vCenter=falso&width=435&lines=FrontEnd+Web+Developer+/+Mobile" alt="Typing SVG" /></a>
 
-- Olá, meu nome é João Lucas Desenvolvedor Web Front-end. Ao longo do tempo, o que venho estudando e colocando em meus projetos me proporcionou certas experiências e habilidades técnicas necessárias para fazer parte de uma equipe de TI com soluções de software adequadas e sustentáveis em qualquer plataforma baseada na web.Iniciei em desenvolvimento mobile com Flutter e em breve colocarei projetos para solidificar meus conhecimentos.
+- Olá, meu nome é João Lucas sou Desenvolvedor. Ao longo do tempo, o que venho estudando e colocando em meus projetos me proporcionou certas experiências e habilidades técnicas necessárias para fazer parte de uma equipe de TI com soluções de software adequadas e sustentáveis em qualquer plataforma baseada na web.Iniciei recentemente em desenvolvimento mobile com Flutter e em breve colocarei projetos para solidificar meus conhecimentos.
 
--💻 Perfecting in JavaScript / TypeScript / React (CRA / VITE) / Redux / Styled-Components / Sass 
+-💻 Front-End - JavaScript / TypeScript / React (CRA / VITE) / Redux / Styled-Components / Sass
 
--👨‍💻-Gestão Ágil
+-💻 Back-End - Node / Express / Arquitetura MVC / Firebase / MongoDb , PostgreeSql
+
+-👨‍💻-Gestão Ágil Scrum
 
 -💻 Flutter/Dart (Beginner)
 
--📝 BASIS - ApiRest ,PostgreSql, Firebase, Axios, Microserviços(practicing) ,English and Bootstrap (practicing)
+-📝 BASIS - ApiRest / Axios / Microserviços(practicing) / English and Bootstrap (practicing)
 
 - 👨‍💻 Visit my Portfólio : https://joaollucaxs.github.io/Portfolio_/
 
 
--📫 Where to find me : joaodevelopment7@gmail.com or queirozjoaolucas8
+-📫 Where to find me : joaodevelopment7@gmail.com or queirozjoaolucas8@gmail.com
 
 
 ### Connect with me:
