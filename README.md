@@ -5,7 +5,9 @@
 
 -💻 Front-End - JavaScript / TypeScript / React (CRA / VITE) / Redux / Styled-Components / Sass
 
--💻 Back-End - Node / Express / Arquitetura MVC / Firebase / MongoDb , PostgreeSql
+-💻 Back-End - Node / Express / Arquitetura MVC / Firebase / MongoDb , PostgreeSql / Testes automatizados-(Iniciando)
+
+- Aprendizados Futuros - Docker
 
 -👨‍💻-Gestão Ágil Scrum
 
