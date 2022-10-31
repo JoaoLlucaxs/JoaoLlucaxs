@@ -7,11 +7,11 @@
 
 -💻 Back-End - Node / Express / Arquitetura MVC / Firebase / MongoDb , PostgreeSql / Testes automatizados-(Iniciando)
 
-- Aprendizados Futuros - Docker
+-💻 Aprendizados Futuros - Docker
 
 -👨‍💻-Gestão Ágil Scrum
 
--💻 Flutter/Dart (Beginner)
+-💻 Flutter/Dart (Aprendendo)
 
 -📝 BASIS - ApiRest / Axios / Microserviços(practicing) / English and Bootstrap (practicing)
 
