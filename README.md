@@ -3,17 +3,17 @@
 
 - Olá, meu nome é João Lucas sou Desenvolvedor JR. Ao longo do tempo, o que venho estudando e colocando em meus projetos me proporcionou certas experiências e habilidades técnicas necessárias para fazer parte de uma equipe de TI com soluções de software adequadas e sustentáveis em qualquer plataforma baseada na web.Iniciei recentemente em desenvolvimento mobile com Flutter e em breve colocarei projetos para solidificar meus conhecimentos.
 
--💻 Front-End - JavaScript / TypeScript / React (CRA / VITE) / Redux / Styled-Components / Sass
+-💻 Front-End - JavaScript / TypeScript / React (CRA / VITE) / Redux / Styled-Components / Sass / Bootstrap  / Material UI
 
--💻 Back-End - Node / Express / Arquitetura MVC / Firebase / MongoDb , PostgreeSql / Testes automatizados-(Iniciando)
-
--💻 Aprendizados Futuros - Docker
+-💻 Back-End - Node / Express / Arquitetura MVC / MongoDb , PostgreeSql / Testes automatizados-(Iniciando)
 
 -👨‍💻-Gestão Ágil Scrum
 
 -💻 Flutter/Dart (Aprendendo)
 
--📝 BASIS - ApiRest / Axios / Microserviços(practicing) / English and Bootstrap (practicing)
+-📝 BASIS - ApiRest / Axios /  Firebase / Microserviços(practicing) / English (practicing)
+
+-💻 Aprendizados Futuros - Docker
 
 - 👨‍💻 Visit my Portfólio : https://joaollucaxs.github.io/Portfolio_/
 
