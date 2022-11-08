@@ -7,6 +7,8 @@
 
 -💻 Back-End - Node / Express / Arquitetura MVC / MongoDb , PostgreeSql / Testes automatizados-(Iniciando)
 
+🖍 Nocões de UX / UI desing
+
 -👨‍💻-Gestão Ágil Scrum
 
 -💻 Flutter/Dart (Aprendendo)
