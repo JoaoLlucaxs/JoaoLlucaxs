@@ -23,10 +23,11 @@
 -📫 Where to find me : joaodevelopment7@gmail.com or queirozjoaolucas8@gmail.com
 
 
-### Connect with me:
-<div>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-queiroz-aa6313230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style =for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+<p align="left">
+  💌 <strong>Contact me:</strong>
+  <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:joaodevelopment7@gmail.com"><img src="https://img.shields.io/badge/Email-282A36?style=for-the-badge&logo=yahoo&logoColor=white"/></a> <a href="https://www.linkedin.com/in/joão-lucas-queiroz-aa6313230//"><img src="https://img.shields.io/badge/LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://api.whatsapp.com/send/?phone=%2B75988178950&text&app_absent=0"><img src="https://img.shields.io/badge/WhatsApp-282A36?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+</p>
 
 
 <div align="center">
