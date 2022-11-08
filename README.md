@@ -11,11 +11,10 @@
 
 -👨‍💻-Gestão Ágil Scrum
 
--💻 Flutter/Dart (Aprendendo)
 
 -📝 BASIS - ApiRest / Axios /  Firebase / Microserviços(practicing) / English (practicing)
 
--💻 Aprendizados Futuros - Docker
+-💻 Aprendizados Futuros - Docker / Mobile
 
 - 👨‍💻 Visit my Portfólio : https://joaollucaxs.github.io/Portfolio_/
 
