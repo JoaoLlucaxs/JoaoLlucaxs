@@ -2,16 +2,17 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282A36&height=150&section=header&text=Hi%20there,%20I'm%20João%20Lucas%20&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-< Olá, meu nome é João Lucas sou Desenvolvedor JR. Ao longo do tempo, o que venho estudando e colocando em meus projetos me proporcionou certas experiências e habilidades técnicas necessárias para fazer parte de uma equipe de TI com soluções de software adequadas e sustentáveis em qualquer plataforma baseada na web.Iniciei recentemente em desenvolvimento mobile com Flutter e em breve colocarei projetos para solidificar meus conhecimentos./>
+< Olá, meu nome é João Lucas sou Desenvolvedor JR voltado ao Front-End. Ao longo do tempo, o que venho estudando e colocando em meus projetos me proporcionou certas experiências e habilidades técnicas necessárias para fazer parte de uma equipe de TI com soluções de software adequadas e sustentáveis em qualquer plataforma baseada na web.Iniciei recentemente em desenvolvimento mobile com Flutter e em breve colocarei projetos para solidificar meus conhecimentos./>
 
 -💻⚡ { Front-End - JavaScript / TypeScript / React (CRA / VITE) / Redux / Styled-Components / Sass / Bootstrap  / Material UI }
 
--💻⚡ { Back-End - Node / Express / Arquitetura MVC / MongoDb , PostgreeSql / Testes automatizados-(Iniciando) }
+-💻⚡ { Aprendendo no momento - Tailwind }
+
+-Noções de { Back-End - Node / Testes automatizados-(Iniciando) }
 
 🖍 Nocões de UX / UI desing
 
 -👨‍💻-Gestão Ágil Scrum
-
 
 -📝 BASIS - ApiRest / Axios /  Firebase / Microserviços(practicing) / English (practicing)
 
