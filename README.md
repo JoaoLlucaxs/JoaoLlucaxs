@@ -2,8 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282A36&height=150&section=header&text=Hi%20there,%20I'm%20João%20Lucas%20&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-< Olá, meu nome é João Lucas sou Desenvolvedor JR voltado ao Front-End. Ao longo do tempo, o que venho estudando e colocando em meus projetos me proporcionou certas experiências e habilidades técnicas necessárias para fazer parte de uma equipe de TI com soluções de software adequadas e sustentáveis em qualquer plataforma baseada na web.Iniciei recentemente em desenvolvimento mobile com Flutter e em breve colocarei projetos para solidificar meus conhecimentos./>
-
+< Olá, meu nome é João Lucas sou Desenvolvedor JR voltado ao Front-End. Ao longo do tempo, o que venho estudando e colocando em meus projetos me proporcionou certas experiências e habilidades técnicas necessárias para fazer parte de uma equipe de TI com soluções de software adequadas e sustentáveis em qualquer plataforma baseada na web.Pretendo também dar vida a projeto mobile />
 -💻⚡ { Front-End - JavaScript / TypeScript / React (CRA / VITE) / Redux / Styled-Components / Sass / Bootstrap  / Material UI }
 
 -💻⚡ { Aprendendo no momento - Tailwind }
@@ -36,9 +35,6 @@
 ![Snake animation](https://github.com/JoaoLlucaxs/JoaoLlucaxs/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
-</p>
 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
