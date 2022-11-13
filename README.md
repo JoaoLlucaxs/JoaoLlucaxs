@@ -3,9 +3,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282A36&height=150&section=header&text=Hi%20there,%20I'm%20João%20Lucas%20&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 < Olá, meu nome é João Lucas sou Desenvolvedor JR voltado ao Front-End. Ao longo do tempo, o que venho estudando e colocando em meus projetos me proporcionou certas experiências e habilidades técnicas necessárias para fazer parte de uma equipe de TI com soluções de software adequadas e sustentáveis em qualquer plataforma baseada na web.Pretendo também dar vida a projeto mobile />
+
 -💻⚡ { Front-End - JavaScript / TypeScript / React (CRA / VITE) / Redux / Styled-Components / Sass / Bootstrap  / Material UI }
 
--💻⚡ { Aprendendo no momento - Tailwind }
+-💻⚡ { Aprendendo no momento - Tailwind / VueJs }
 
 -Noções de { Back-End - Node / Testes automatizados-(Iniciando) }
 
