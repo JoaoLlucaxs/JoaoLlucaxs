@@ -6,7 +6,7 @@
 
 -💻⚡ { Front-End - JavaScript / TypeScript / React (CRA / VITE) / Redux / Styled-Components / Sass / Bootstrap  / Material UI }
 
--💻⚡ { Aprendendo no momento - Tailwind / VueJs }
+-💻⚡ { Aprendendo no momento - Tailwind / Banco de dados }
 
 -Noções de { Back-End - Node / Testes automatizados-(Iniciando) }
 
