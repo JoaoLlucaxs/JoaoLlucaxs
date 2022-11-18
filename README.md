@@ -1,14 +1,18 @@
 ### João Queiroz, Be welcome(a) 👋👨‍💻
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=282A36&height=150&section=header&text=Hi%20there,%20I'm%20João%20Lucas%20&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=430c66&height=150&section=header&text=Hi%20there,%20I'm%20João%20Lucas%20&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 < Olá, meu nome é João Lucas sou Desenvolvedor JR voltado ao Front-End. Ao longo do tempo, o que venho estudando e colocando em meus projetos me proporcionou certas experiências e habilidades técnicas necessárias para fazer parte de uma equipe de TI com soluções de software adequadas e sustentáveis em qualquer plataforma baseada na web.Pretendo também dar vida a projeto mobile />
+
+<div align="center">
+<img width=250 src="https://user-images.githubusercontent.com/92184255/202820147-917120ff-c00a-4688-8953-b3269841e367.png"/> 
+</div>
 
 -💻⚡ { Front-End - JavaScript / TypeScript / React (CRA / VITE) / Redux / Styled-Components / Sass / Bootstrap  / Material UI }
 
 -💻⚡ { Aprendendo no momento - Tailwind / Banco de dados }
 
--Noções de { Back-End - Node / Testes automatizados-(Iniciando) }
+-Noções de { Back-End - Node / Testes automatizados-(Iniciando) }  
 
 🖍 Nocões de UX / UI desing
 
@@ -29,8 +33,8 @@
 
 
 <div align="center">
-<img width="450em" alt="Status Github João Lucas" src="https://github-readme-stats.vercel.app/api?username=JoaoLlucaxs&show_icons=true&theme=dark"/>
-<img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLlucaxs&layout=compact&theme=dark"/>
+<img width="450em" alt="Status Github João Lucas" src="https://github-readme-stats.vercel.app/api?username=JoaoLlucaxs&show_icons=true&theme=midnight-purple"/>
+<img width="380em" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLlucaxs&layout=compact&theme=midnight-purple"/>
 </div>
 
 ![Snake animation](https://github.com/JoaoLlucaxs/JoaoLlucaxs/blob/output/github-contribution-grid-snake.svg)
