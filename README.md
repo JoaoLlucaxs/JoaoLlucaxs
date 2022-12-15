@@ -8,7 +8,7 @@
 <img width=250 src="https://user-images.githubusercontent.com/92184255/202820147-917120ff-c00a-4688-8953-b3269841e367.png"/> 
 </div>
 
--💻⚡ { Front-End - JavaScript / TypeScript / React (CRA / VITE) / Redux / Styled-Components / Sass / Bootstrap  / Material UI }
+-💻⚡ { Front-End - JavaScript / TypeScript / React (CRA / VITE) / Styled-Components / Sass / Bootstrap  / Material UI }
 
 -💻⚡ { Aprendendo no momento - Tailwind / Banco de dados }
 
