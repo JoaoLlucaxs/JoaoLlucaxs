@@ -12,7 +12,7 @@
 
 -💻⚡ { Aprendendo no momento - Tailwind / Banco de dados }
 
--Noções de { Back-End - Node / Testes automatizados-(Iniciando) }  
+-💻⚡ { Back-End - Node / Docker / PostgreSQL / Testes automatizados-(Iniciando) }  
 
 🖍 Nocões de UX / UI desing
 
@@ -20,7 +20,7 @@
 
 -📝 BASIS - ApiRest / Axios /  Firebase / Microserviços(practicing) / English (practicing)
 
--💻 Aprendizados Futuros - Docker / Mobile
+-💻 Aprendizados Futuros -Python, Flutter
 
 - 👨‍💻 Visit my Portfólio : https://joaollucaxs.github.io/Portfolio_/
 
