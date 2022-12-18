@@ -8,6 +8,10 @@
 <img width=250 src="https://user-images.githubusercontent.com/92184255/202820147-917120ff-c00a-4688-8953-b3269841e367.png"/> 
 </div>
 
+<div align="left">
+<img width=200 src="https://user-images.githubusercontent.com/92184255/208274132-189fb0e3-6cba-4e09-8c0b-d75d6bb7bf82.gif"
+</div>
+
 -💻⚡ { Front-End - JavaScript / TypeScript / React (CRA / VITE) / Styled-Components / Sass / Bootstrap  / Material UI }
 
 -💻⚡ { Aprendendo no momento - Tailwind / Banco de dados }
