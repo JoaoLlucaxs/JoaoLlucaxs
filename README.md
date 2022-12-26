@@ -2,7 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=430c66&height=150&section=header&text=Hi%20there,%20I'm%20João%20Lucas%20&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-< Olá, meu nome é João Lucas sou Desenvolvedor JR voltado a especialização em Front-End & Mobile. Ao longo do tempo, o que venho estudando e colocando em meus projetos me proporcionou certas experiências e habilidades técnicas necessárias para fazer parte de uma equipe de TI com soluções de software adequadas e sustentáveis em qualquer plataforma baseada na web. />
+< Olá, meu nome é João Lucas sou Desenvolvedor JR voltado a especialização em Front-End. Ao longo do tempo, o que venho estudando e colocando em meus projetos me proporcionou certas experiências e habilidades técnicas necessárias para fazer parte de uma equipe de TI com soluções de software adequadas e sustentáveis em qualquer plataforma baseada na web. />
 
 <div align="center">
 <img width=250 src="https://user-images.githubusercontent.com/92184255/202820147-917120ff-c00a-4688-8953-b3269841e367.png"/> 
@@ -15,9 +15,9 @@
 
 -💻⚡ { Front-End - JavaScript / TypeScript / React (CRA / VITE) / Styled-Components / Sass / Bootstrap  / Material UI }
 
--💻⚡ { Aprendendo no momento - Tailwind / Banco de dados }
+-💻⚡ { Aprendendo no momento - Testes Automatizados }
 
--💻⚡ { Back-End - Node / Docker / PostgreSQL / Testes automatizados-(Iniciando) }  
+-💻⚡ { Back-End - Node / Docker / PostgreSQL}  
 
 🖍 Nocões de UX / UI desing
 
