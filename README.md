@@ -4,6 +4,7 @@
 
 < Olá, meu nome é João Lucas sou Desenvolvedor voltado a especialização em Front-End e atualmente aprimorando em Java. Ao longo do tempo, o que venho estudando e colocando em meus projetos me proporcionou certas experiências e habilidades técnicas necessárias para fazer parte de uma equipe de TI com soluções de software adequadas e sustentáveis em qualquer plataforma baseada na web. />
 
+
 <div align="center">
 <img width=250 src="https://user-images.githubusercontent.com/92184255/202820147-917120ff-c00a-4688-8953-b3269841e367.png"/> 
 </div>
@@ -44,7 +45,9 @@
 
 ![Snake animation](https://github.com/JoaoLlucaxs/JoaoLlucaxs/blob/output/github-contribution-grid-snake.svg)
 
-<p align="center">
+  
+  
+  <h1 align="center">Algumas Tecnologias inseridas em meus projetos ⚡</h1>
 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
