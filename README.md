@@ -2,7 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=430c66&height=150&section=header&text=Hi%20there,%20I'm%20João%20Lucas%20&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-< Olá, meu nome é João Lucas sou Desenvolvedor FullStack, atualmente com foco em Java. Ao longo do tempo, o que venho estudando e colocando em meus projetos me proporcionou certas experiências e habilidades técnicas necessárias para fazer parte de uma equipe de TI com soluções de software adequadas e sustentáveis em qualquer plataforma baseada na web. />
+< Olá, meu nome é João Lucas sou Desenvolvedor FullStack, atualmente com foco em Java. Ao longo do tempo, o que venho estudando e colocando em meus projetos me proporcionou certas experiências e habilidades técnicas necessárias para fazer parte de uma equipe de TI com soluções de software adequadas e sustentáveis >
 
 
 <div align="center">
