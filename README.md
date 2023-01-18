@@ -26,7 +26,6 @@
 
 -📝 BASIS - ApiRest / Axios /  Firebase / English (practicing)
 
--💻 Aprendizados Futuros - Flutter
 
 - 👨‍💻 Visit my Portfólio : https://developer-mu-eight.vercel.app/
 
