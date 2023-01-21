@@ -18,7 +18,7 @@
 
 -💻⚡ { Aprendendo no momento - Java Web FullStack  }
 
--💻⚡ { Back-End - Java / Docker(básico)/ SQL}  
+-💻⚡ { Back-End - Java / Docker(básico)/ SQL / Node (Conceitos base)}  
 
 🖍 Nocões de UX / UI desing
 
