@@ -37,8 +37,6 @@
 <hr>
 
 
-<h2> Projetos </h2>
-
 <img src=https://user-images.githubusercontent.com/11077068/210180730-1d8f7ce6-eda3-497d-9a23-e71ed1f7886e.gif width="500" align='right'>
 
 <hr>
