@@ -36,6 +36,15 @@
 </details>
 <hr>
 
+<details>
+<summary><h2>Teste sua lógica de Programação 👇🏻</h2></summary>
+
+| Titulo | Função| Situação | Link |
+| :---: | :---: | :---: | :---: |
+|Lógica e Algoritmos	 | Programção | Pratique | [Download](https://fit.faccat.br/~fpereira/apostilas/exerc_resp_alg_mar2007.pdf) |  
+</details>
+<hr>
+
 
 <img src=https://user-images.githubusercontent.com/11077068/210180730-1d8f7ce6-eda3-497d-9a23-e71ed1f7886e.gif width="500" align='right'>
 
