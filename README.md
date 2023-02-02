@@ -1,11 +1,10 @@
 ### Opa ! tudo bem ?👋👨‍💻
-<h2> <i>Eu sou o João seja bem vindo ao meu GITHUB veja a seguir meu Portfólio <a href="https://my-portfolio-henna-tau-13.vercel.app/" target="_blank">Portfolio</a></i></h2>
+<h2> <i>Eu sou o João Lucas seja bem vindo ao meu GITHUB veja a seguir meu Portfólio <a href="https://my-portfolio-henna-tau-13.vercel.app/" target="_blank">Portfolio</a></i></h2>
 
 <hr>
 <h2> Sobre mim 🤟🏻</h2>
 
-
- <img src="https://media4.giphy.com/media/oyVG9q7PWZMFj9rMNt/giphy.gif?cid=790b761189376553c10ef89181046af1b224929d29027da8&rid=giphy.gif&ct=g"  height="290px" align="right" />
+ <img src="https://user-images.githubusercontent.com/92184255/216349704-32038d23-c21a-4690-a283-4a508ede4365.png"  height="290px" align="right" />
 
 - 🔭 Entusiasta no mundo da programação,passo o dia colocando em meus projetos habilidades técnicas e experiêcias necessárias para fazer parte de uma equipe de TI com soluções de software adequadas e sustentáveis .
 - 🌱 Atualmente minhas Stacks estão voltadas para o Java mas possuo conhecimentos em Front-End com ReactJs.
@@ -31,8 +30,9 @@
 |Curso de JavaScript	 | Front-End |Concluído | [Download](https://www.origamid.com/certificate/4796f568) |  
 |Metodologia Ágil Scrum | Empresa | Concluído | [Download](https://udemy-certificate.s3.amazonaws.com/pdf/UC-bcc6b9d2-5657-4242-b040-ab8b5b4f12c5.pdf) |
 |ReactJS | Front-End | Concluído | [Download]
-| POO JAVA| Back-End | Andamento |  [Download]
+| POO JAVA| Back-End | Andamento | [Download](file:///C:/Users/queir/Downloads/certificado.pdf) |
 | Formação Java FullStack + Angular | FullStack | Andamento | [Download]
+| Preparação prova TOEFL | Inglês | Andamento | [Download]
 </details>
 <hr>
 
@@ -41,7 +41,7 @@
 
 | Titulo | Função| Situação | Link |
 | :---: | :---: | :---: | :---: |
-|Lógica e Algoritmos	 | Programção | Pratique | [Download](https://fit.faccat.br/~fpereira/apostilas/exerc_resp_alg_mar2007.pdf) |  
+|Lógica e Algoritmos	 | Programação | Pratique | [Download](https://fit.faccat.br/~fpereira/apostilas/exerc_resp_alg_mar2007.pdf) |  
 </details>
 <hr>
 
