@@ -46,7 +46,7 @@
 <hr>
 
 
-<img src=https://user-images.githubusercontent.com/92184255/216358215-c7a9e43b-7895-4f04-9a4c-acca72f06135.jpeg width="500"  height="420" align='right'>
+<img src=https://user-images.githubusercontent.com/92184255/216360385-e8171a7f-91c0-4a81-a18e-32d6f895e997.jpeg width="500" align='right'>
 
 <hr>
 <h2 align="left">Minha Stacks ⚡ :</h2>
