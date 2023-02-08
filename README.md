@@ -30,7 +30,7 @@
 |Curso de JavaScript	 | Front-End |Concluído | [Download](https://www.origamid.com/certificate/4796f568) |  
 |Metodologia Ágil Scrum | Empresa | Concluído | [Download](https://udemy-certificate.s3.amazonaws.com/pdf/UC-bcc6b9d2-5657-4242-b040-ab8b5b4f12c5.pdf) |
 |ReactJS | Front-End | Concluído |[Download](https://www.origamid.com/certificate/4f5af0a3) | 
-| POO JAVA| Back-End | Completo | [Download](https://www.origamid.com/certificate/4f5af0a3) |
+| POO JAVA| Back-End | Completo | [Download](https://github.com/JoaoLlucaxs/JoaoLlucaxs/files/10688351/certificado.1.pdf) |
 | Formação Java FullStack + Angular | FullStack | Andamento | [Download]
 | Preparação prova TOEFL | Inglês | Andamento | [Download]
 </details>
