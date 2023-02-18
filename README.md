@@ -20,6 +20,7 @@
  <img src="https://user-images.githubusercontent.com/92184255/216349704-32038d23-c21a-4690-a283-4a508ede4365.png"  height="290px" align="right" />
 
 - 🔭 Entusiasta no mundo da programação,passo o dia colocando em meus projetos habilidades técnicas e experiêcias necessárias para fazer parte de uma equipe de TI com soluções de software adequadas e sustentáveis .
+- 🤩️ I love instruments, studying human behavior
 - 🌱 Atualmente minhas Stacks estão voltadas para o Java mas possuo conhecimento de quase 2 anos em Front-End com ReactJs.
 - 💻 Busco sempre soluções inovadoras que resolva problemas do dia a dia.
 - 📫 Linkdin : [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-lucas-queiroz/).
