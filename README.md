@@ -1,6 +1,19 @@
 ### Opa ! tudo bem ?👋👨‍💻
 <h2> <i>Eu sou o João Lucas seja bem vindo ao meu GITHUB veja a seguir meu Portfólio <a href="https://my-portfolio-henna-tau-13.vercel.app/" target="_blank">Portfolio</a></i></h2>
 
+<table align="center">
+  <tr>
+    <td>
+      <b>
+        <a href="README.md">🇧🇷 Português</a>
+      </b>
+    </td>
+    <td>
+      <a href="readme-en.md">🇺🇸 English</a>
+    </td>
+  </tr>
+</table>
+
 <hr>
 <h2> Sobre mim 🤟🏻</h2>
 
