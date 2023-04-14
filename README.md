@@ -21,7 +21,7 @@
 
 - 🔭 Entusiasta no mundo da programação,passo o dia colocando em meus projetos habilidades técnicas e experiêcias necessárias para fazer parte de uma equipe de TI com soluções de software adequadas e sustentáveis .
 - 🤩️ Amo Instrumentos, estudar comportamento humano e cibersegurança
-- 🌱 Atualmente minhas Stacks estão voltadas para o Java mas possuo conhecimento de quase 2 anos em Front-End com ReactJs.
+- 🌱 Atualmente minhas Stacks estão voltadas para o Java possuo conhecimento de 2 anos.
 - 💻 Busco sempre soluções inovadoras que resolva problemas do dia a dia.
 - 📫 Linkdin : [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-lucas-queiroz/).
 - 😄 Pronouns: He/Him
@@ -30,9 +30,8 @@
 <details>
 <summary><h2>Resumo</h2></summary>
 <p align="justify">
-  Bom, faz quase 2 anos que a programação entrou na minha vida e nesse tempo o meu foco estava todo no Front-End e com isso tenho uma boa base em JavaScript, 
-  mas com o passar do tempo descobri que não era exatamente está trilha que eu queria seguir.E com isso após muitas pesquisas migrei para o Java e atualmente o meu foco é essa stack o que não exclui o fato de querer criar projetos bem completos com ambas trilhas pois nenhum estudo é descartável certo?, estou ansioso para conversarmos.
- </p>
+  Bom, faz 2 anos que a programação entrou na minha vida e nesse tempo estudei bastante a lógica e algoritmo e com isso tenho uma boa base em JavaScript e seu framework ReactJs e conhecimento na linguagem Java atualmente o meu foco é essa stack voltada para o Back-End.Estou ansioso para conversarmos
+  </p>
   </details>
 <hr>
 
@@ -45,7 +44,6 @@
 |Metodologia Ágil Scrum | Empresa | Concluído | [Download](https://udemy-certificate.s3.amazonaws.com/pdf/UC-bcc6b9d2-5657-4242-b040-ab8b5b4f12c5.pdf) |
 |ReactJS | Front-End | Concluído |[Download](https://www.origamid.com/certificate/4f5af0a3) | 
 | POO JAVA| Back-End | Completo | [Download](https://github.com/JoaoLlucaxs/JoaoLlucaxs/files/10688351/certificado.1.pdf) |
-| Formação Java FullStack + Angular | FullStack | Andamento | [Download]
 | Preparação prova TOEFL | Inglês | Andamento | [Download]
 </details>
 <hr>
