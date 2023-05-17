@@ -19,9 +19,8 @@
 
  <img src="https://user-images.githubusercontent.com/92184255/216349704-32038d23-c21a-4690-a283-4a508ede4365.png"  height="290px" align="right" />
 
-- 🔭 Entusiasta no mundo da programação,passo o dia colocando em meus projetos habilidades técnicas e experiêcias necessárias para fazer parte de uma equipe de TI com soluções de software adequadas e sustentáveis .
+- 🔭 Altamente motivado em desenvolver soluções back-end sólidas e escaláveis em Java
 - 🤩️ Amo Instrumentos, estudar comportamento humano e cibersegurança
-- 🌱 Atualmente minhas Stacks estão voltadas para o Java possuo conhecimento de 2 anos.
 - 💻 Busco sempre soluções inovadoras que resolva problemas do dia a dia.
 - 📫 Linkdin : [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-lucas-queiroz/).
 - 😄 Pronouns: He/Him
@@ -30,7 +29,7 @@
 <details>
 <summary><h2>Resumo</h2></summary>
 <p align="justify">
-  Bom, faz 2 anos que a programação entrou na minha vida e nesse tempo estudei bastante a lógica e algoritmo e com isso tenho uma boa base em JavaScript e seu framework ReactJs e conhecimento na linguagem Java atualmente o meu foco é essa stack voltada para o Back-End.Estou ansioso para conversarmos
+  Possuo habilidades de comunicação, organização e liderança, estou sempre estudando e atualizando meus conhecimentos para contribuir com times dinâmicos e alcançar resultados excepcionais, estando aberto a novas tecnologias que possam contribuir para minha evolução.
   </p>
   </details>
 <hr>
