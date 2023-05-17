@@ -21,9 +21,8 @@
 
  <img src="https://user-images.githubusercontent.com/92184255/216349704-32038d23-c21a-4690-a283-4a508ede4365.png"  height="290px" align="right" />
 
-- 🔭 Enthusiast of the world of programming, I spend my days putting technical skills and experiences necessary to be part of an IT team with adequate and sustainable software solutions in my projects..
+- 🔭 Highly motivated to develop solid and scalable Java backend solutions.
 - 🤩️ I love instruments, studying human behavior
-- 🌱Currently my Stacks are focused on Java and I have almost 2 years of knowledge in Front-End with ReactJs.
 - 💻 I always look for innovative solutions that solve everyday problems.
 - 📫 Linkdin : [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-lucas-queiroz/).
 - 😄 Pronouns: He/Him
@@ -32,8 +31,7 @@
 <details>
 <summary><h2>Summary</h2></summary>
 <p align="justify">
-  Well, it's been almost 2 years since programming came into my life and in that time I was using JavaScript stack for Front-End,
-  but I decided to migrate to Java and with this stack I intend to become a specialist in the language. I like to create complete, secure and clean code applications. I am open to new learning that may impact the client's daily life. eager to talk
+  I have communication, organization and leadership skills, I am always studying and updating my knowledge to contribute to dynamic teams and achieve exceptional results, being open to new technologies that can contribute to my evolution.
  </p>
   </details>
 <hr>
