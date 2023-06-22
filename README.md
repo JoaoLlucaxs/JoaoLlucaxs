@@ -19,7 +19,7 @@
 
  <img src="https://user-images.githubusercontent.com/92184255/216349704-32038d23-c21a-4690-a283-4a508ede4365.png"  height="290px" align="right" />
 
-- 🔭 Altamente motivado em desenvolver soluções back-end sólidas e escaláveis em Java
+- 🔭 Altamente motivado em desenvolver soluções back-end sólidas e escaláveis em Java Web e Desktop
 - 🤩️ Amo Instrumentos, estudar comportamento humano e cibersegurança
 - 💻 Busco sempre soluções inovadoras que resolva problemas do dia a dia.
 - 📫 Linkdin : [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-lucas-queiroz/).
@@ -30,6 +30,7 @@
 <summary><h2>Resumo</h2></summary>
 <p align="justify">
   Possuo habilidades de comunicação, organização e liderança, estou sempre estudando e atualizando meus conhecimentos para contribuir com times dinâmicos e alcançar resultados excepcionais, estando aberto a novas tecnologias que possam contribuir para minha evolução.
+  minha principal meta é me tornar especialista back-end preferencialmente na linguagem Java
   </p>
   </details>
 <hr>
@@ -43,7 +44,7 @@
 |Metodologia Ágil Scrum | Empresa | Concluído | [Download](https://udemy-certificate.s3.amazonaws.com/pdf/UC-bcc6b9d2-5657-4242-b040-ab8b5b4f12c5.pdf) |
 |ReactJS | Front-End | Concluído |[Download](https://www.origamid.com/certificate/4f5af0a3) | 
 | POO JAVA| Back-End | Completo | [Download](https://github.com/JoaoLlucaxs/JoaoLlucaxs/files/10688351/certificado.1.pdf) |
-| Preparação prova TOEFL | Inglês | Andamento | [Download]
+| Java Swing Design | Back-end | Concluído | [Download](https://udemy-certificate.s3.amazonaws.com/image/UC-747926b1-562b-4fbf-bb8e-f2bdee9bf73c.jpg)
 </details>
 <hr>
 
