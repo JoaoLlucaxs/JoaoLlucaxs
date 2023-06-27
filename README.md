@@ -30,7 +30,7 @@
 <summary><h2>Resumo</h2></summary>
 <p align="justify">
   Possuo habilidades de comunicação, organização e liderança, estou sempre estudando e atualizando meus conhecimentos para contribuir com times dinâmicos e alcançar resultados excepcionais, estando aberto a novas tecnologias que possam contribuir para minha evolução.
-  minha principal meta é me tornar especialista back-end preferencialmente na linguagem Java
+  minha principal meta é me tornar especialista back-end preferencialmente na linguagem Java, possuindo projetos também em outras voltadas ao back-end
   </p>
   </details>
 <hr>
