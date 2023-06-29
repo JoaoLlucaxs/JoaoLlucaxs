@@ -1,5 +1,5 @@
 ### Oops, how are you?
-<h2> <i>I'm João Lucas welcome to my GITHUB see my Portfolio below <a href="https://my-portfolio-henna-tau-13.vercel.app/" target="_blank">Portfolio</a></i></h2>
+<h2> <i>I'm João Lucas welcome to my GITHUB </i></h2>
 
 
 <table align="center">
