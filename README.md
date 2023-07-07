@@ -19,7 +19,7 @@
 
  <img src="https://user-images.githubusercontent.com/92184255/216349704-32038d23-c21a-4690-a283-4a508ede4365.png"  height="290px" align="right" />
 
-- 🔭 Altamente motivado em desenvolver soluções back-end sólidas e escaláveis em Java Web / Desktop / Delphi
+- 🔭 Altamente motivado em desenvolver soluções back-end sólidas e escaláveis em Java Web / Desktop 
 - 🤩️ Amo Instrumentos, estudar comportamento humano e cibersegurança
 - 💻 Busco sempre soluções inovadoras que resolva problemas do dia a dia.
 - 📫 Linkdin : [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-lucas-queiroz/).
