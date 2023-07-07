@@ -19,7 +19,7 @@
 
  <img src="https://user-images.githubusercontent.com/92184255/216349704-32038d23-c21a-4690-a283-4a508ede4365.png"  height="290px" align="right" />
 
-- 🔭 Altamente motivado em desenvolver soluções back-end sólidas e escaláveis em Java Web e Desktop
+- 🔭 Altamente motivado em desenvolver soluções back-end sólidas e escaláveis em Java Web / Desktop / Delphi
 - 🤩️ Amo Instrumentos, estudar comportamento humano e cibersegurança
 - 💻 Busco sempre soluções inovadoras que resolva problemas do dia a dia.
 - 📫 Linkdin : [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-lucas-queiroz/).
@@ -30,7 +30,7 @@
 <summary><h2>Resumo</h2></summary>
 <p align="justify">
   Possuo habilidades de comunicação, organização e liderança, estou sempre estudando e atualizando meus conhecimentos para contribuir com times dinâmicos e alcançar resultados excepcionais, estando aberto a novas tecnologias que possam contribuir para minha evolução.
-  minha principal meta é me tornar especialista back-end preferencialmente na linguagem Java, possuindo projetos também em outras voltadas ao back-end
+  minha principal meta é me tornar especialista back-end preferencialmente na linguagem Java, possuindo conhecimento também em Delphi
   </p>
   </details>
 <hr>
