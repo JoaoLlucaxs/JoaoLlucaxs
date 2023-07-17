@@ -79,4 +79,3 @@
 <img width="450em" alt="Linguagens mais usadas" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JoaoLlucaxs&layout=compact&theme=midnight-purple"/>
 </div>
 
-![Snake animation](https://github.com/JoaoLlucaxs/JoaoLlucaxs/blob/output/github-contribution-grid-snake.svg)
