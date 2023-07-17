@@ -21,7 +21,7 @@
 
  <img src="https://user-images.githubusercontent.com/92184255/216349704-32038d23-c21a-4690-a283-4a508ede4365.png"  height="290px" align="right" />
 
-- 🔭 Highly motivated to develop solid and scalable Java backend solutions.
+- 🔭 Highly motivated to develop solid and scalable Java Web and Desktop solutions.
 - 🤩️ I love instruments, studying human behavior
 - 💻 I always look for innovative solutions that solve everyday problems.
 - 📫 Linkdin : [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-lucas-queiroz/).
@@ -83,5 +83,4 @@
 <img width="450em" alt="Linguagens mais usadas" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JoaoLlucaxs&layout=compact&theme=midnight-purple"/>
 </div>
 
-![Snake animation](https://github.com/JoaoLlucaxs/JoaoLlucaxs/blob/output/github-contribution-grid-snake.svg)
 
