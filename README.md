@@ -1,5 +1,5 @@
 ### Opa ! tudo bem ?👋👨‍💻
-<h2> <i>Eu sou o João Lucas seja bem vindo ao meu GITHUB veja a seguir meu Portfólio </i></h2>
+<h2> <i>Um tal de dev Java 🖥🤟🏻.</i></h2>
 
 <table align="center">
   <tr>
