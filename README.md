@@ -1,5 +1,5 @@
 ### Opa ! tudo bem ?👋👨‍💻
-<h2> <i>Um tal de dev Java 🖥🤟🏻.</i></h2>
+<h2> <i>Eu sou o João Lucas, Bem vindo ao meu mundo Java</i></h2>
 
 <table align="center">
   <tr>
