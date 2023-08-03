@@ -46,7 +46,14 @@
 | Java Swing Design | Back-end | Concluído | [Download](https://udemy-certificate.s3.amazonaws.com/image/UC-747926b1-562b-4fbf-bb8e-f2bdee9bf73c.jpg)
 </details>
 <hr>
+<details>
+<summary><h2>Introdução JPA HIBERNATE👇🏻</h2></summary>
 
+| Titulo | Função| Situação | Link |
+| :---: | :---: | :---: | :---: |
+|Entendendo o JPA	 | Programação | Leia | [Link](https://blog.algaworks.com/tutorial-jpa/) |  
+</details>
+<hr>
 <details>
 <summary><h2>Teste sua lógica de Programação 👇🏻</h2></summary>
 
