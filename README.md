@@ -19,7 +19,7 @@
 
  <img src="https://user-images.githubusercontent.com/92184255/216349704-32038d23-c21a-4690-a283-4a508ede4365.png"  height="290px" align="right" />
 
-- 🔭 Altamente motivado em desenvolver soluções back-end sólidas e escaláveis em Java Web / Desktop 
+- 🔭 Altamente motivado em desenvolver soluções back-end sólidas e escaláveis em Java Web construindo RestApi / Desktop 
 - 🤩️ Amo Instrumentos, estudar comportamento humano e cibersegurança
 - 💻 Busco sempre soluções inovadoras que resolva problemas do dia a dia.
 - 📫 Linkdin : [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-lucas-queiroz/).
@@ -29,7 +29,7 @@
 <details>
 <summary><h2>Resumo</h2></summary>
 <p align="justify">
-  Javeiro Web e Desktop, meu foco é me tornar especialista na stack dando suporte das aplicações mais atuais tanto quanto as legadas e possuir conhecimentos essenciais para gerenciar meus sistemas, buscando conhecimento previo em Devops , acesse minha página no instagram (_o_softwaredev).
+  Javeiro Web e Desktop, foco em tornar especialista em criação de RestApi com Spring dando suporte das aplicações mais atuais tanto quanto as legadas e possuir conhecimentos essenciais para gerenciar meus sistemas, buscando conhecimento previo em Devops como entendimento de aplicações em microservice e monolitico , acesse minha página no instagram (_o_softwaredev).
   </p>
   </details>
 <hr>
