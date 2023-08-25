@@ -21,7 +21,7 @@
 
  <img src="https://user-images.githubusercontent.com/92184255/216349704-32038d23-c21a-4690-a283-4a508ede4365.png"  height="290px" align="right" />
 
-- 🔭 Highly motivated to develop solid and scalable Java Web and Desktop solutions.
+- 🔭 Highly motivated to develop solid and scalable Java Web constructing RestApi and Desktop solutions.
 - 🤩️ I love instruments, studying human behavior
 - 💻 I always look for innovative solutions that solve everyday problems.
 - 📫 Linkdin : [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-lucas-queiroz/).
@@ -31,7 +31,7 @@
 <details>
 <summary><h2>Summary</h2></summary>
 <p align="justify">
- Javeiro Web and Desktop, my focus is to become a specialist in the stack supporting the most current applications as well as the legacy ones and having essential knowledge to manage my systems, seeking previous knowledge in Devops, access my page on instagram (_o_softwaredev).
+ Java Web and Desktop, focus on becoming an expert in creating RestApi with Spring, supporting the most current and also legacy applications and having essential knowledge to manage my systems, seeking prior knowledge in Devops such as understanding microservices and monolithic applications, accessing my pages on instagram (_o_softwaredev).
  </p>
   </details>
 <hr>
