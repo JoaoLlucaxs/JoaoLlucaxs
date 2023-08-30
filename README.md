@@ -20,7 +20,7 @@
  <img src="https://user-images.githubusercontent.com/92184255/216349704-32038d23-c21a-4690-a283-4a508ede4365.png"  height="290px" align="right" />
 
 - 🔭 Altamente motivado em desenvolver soluções back-end sólidas e escaláveis em Java Web construindo RestApi / Desktop 
-- 🤩️ Amo Instrumentos, estudar comportamento humano e cibersegurança
+- 🤩️ Amo Instrumentos, e Cybersegurança
 - 💻 Busco sempre soluções inovadoras que resolva problemas do dia a dia.
 - 📫 Linkdin : [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-lucas-queiroz/).
 - 😄 Pronouns: He/Him
@@ -29,7 +29,7 @@
 <details>
 <summary><h2>Resumo</h2></summary>
 <p align="justify">
-  Javeiro Web e Desktop, foco em tornar especialista em criação de RestApi com Spring dando suporte das aplicações mais atuais tanto quanto as legadas e possuir conhecimentos essenciais para gerenciar meus sistemas, buscando conhecimento previo em Devops como entendimento de aplicações em microservice e monolitico , acesse minha página no instagram (_o_softwaredev).
+  Javeiro Web e Desktop, me tornando especialista em criação de RestApi com Spring dando suporte das aplicações mais atuais tanto quanto as legadas e possuindo conhecimentos essenciais para gerenciar meus sistemas, tenho conhecimento previo em entendimento de aplicações em microservice e monolitico , graduando em Sistema da Informação com planos de obter uma Pós graduação em Engenharia de Software , por fim além de especialista Java pretendo me tornar Pentester por amar segurança da informação, acesse minha página no instagram (_o_softwaredev).
   </p>
   </details>
 <hr>
@@ -39,9 +39,8 @@
 
 | Titulo | Função| Situação | Baixe |
 | :---: | :---: | :---: | :---: |
-|Curso de JavaScript	 | Front-End |Concluído | [Download](https://www.origamid.com/certificate/4796f568) |  
+|Curso de JavaScript	 | JavaScript Avançado |Concluído | [Download](https://www.origamid.com/certificate/4796f568) |  
 |Metodologia Ágil Scrum | Empresa | Concluído | [Download](https://udemy-certificate.s3.amazonaws.com/pdf/UC-bcc6b9d2-5657-4242-b040-ab8b5b4f12c5.pdf) |
-|ReactJS | Front-End | Concluído |[Download](https://www.origamid.com/certificate/4f5af0a3) | 
 | POO JAVA| Back-End | Completo | [Download](https://github.com/JoaoLlucaxs/JoaoLlucaxs/files/10688351/certificado.1.pdf) |
 | Java Swing Design | Back-end | Concluído | [Download](https://udemy-certificate.s3.amazonaws.com/image/UC-747926b1-562b-4fbf-bb8e-f2bdee9bf73c.jpg)
 </details>
