@@ -22,7 +22,7 @@
  <img src="https://user-images.githubusercontent.com/92184255/216349704-32038d23-c21a-4690-a283-4a508ede4365.png"  height="290px" align="right" />
 
 - 🔭 Highly motivated to develop solid and scalable Java Web constructing RestApi and Desktop solutions.
-- 🤩️ I love instruments, studying human behavior
+- 🤩️ I love instruments and Cybersecurity
 - 💻 I always look for innovative solutions that solve everyday problems.
 - 📫 Linkdin : [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-lucas-queiroz/).
 - 😄 Pronouns: He/Him
@@ -31,7 +31,7 @@
 <details>
 <summary><h2>Summary</h2></summary>
 <p align="justify">
- Java Web and Desktop, focus on becoming an expert in creating RestApi with Spring, supporting the most current and also legacy applications and having essential knowledge to manage my systems, seeking prior knowledge in Devops such as understanding microservices and monolithic applications, accessing my pages on instagram (_o_softwaredev).
+ Javairo Web and Desktop, becoming a specialist in creating RestApi with Spring supporting the most current applications as well as the legacy ones and having essential knowledge to manage my systems, I have previous knowledge in understanding microservice and monolithic applications, graduating in Information System with plans to obtain a Postgraduate degree in Software Engineering, finally, in addition to being a Java specialist, I intend to become a Pentester for loving information security, access my page on instagram (_o_softwaredev).
  </p>
   </details>
 <hr>
@@ -42,9 +42,8 @@
 
 | Title | Function| Situation | Download |
 | :---: | :---: | :---: | :---: |
-|JavaScript course	 | Front-End |Concluded | [Download](https://www.origamid.com/certificate/4796f568) |  
+|JavaScript course	 | JavaScript Advanced |Concluded | [Download](https://www.origamid.com/certificate/4796f568) |  
 |Agile Scrum Methodology | Company |Concluded | [Download](https://udemy-certificate.s3.amazonaws.com/pdf/UC-bcc6b9d2-5657-4242-b040-ab8b5b4f12c5.pdf) |
-|ReactJS | Front-End |Concluded |[Download](https://www.origamid.com/certificate/4f5af0a3) | 
 | POO JAVA| Back-End | Concluded| [Download](https://github.com/JoaoLlucaxs/JoaoLlucaxs/files/10688351/certificado.1.pdf) |
 |English | English | Progress | [Download]
 </details>
