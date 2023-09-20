@@ -40,19 +40,15 @@
 
  <img src="https://user-images.githubusercontent.com/92184255/216349704-32038d23-c21a-4690-a283-4a508ede4365.png"  height="290px" align="right" />
 
-- 🔭 Altamente motivado em desenvolver soluções back-end sólidas e escaláveis em Java Web construindo RestApi / Desktop 
+- 🔭 Mais de 2 anos de experiência , tenho autonomia na linguagem Java e seu ecossistema com intuito de me tornar especialista, por fim possuo conhecimento em FrontEnd.
+- Graduando na faculdade <a href="https://descomplica.com.br/" target="_blank">Descomplica Faculdade</a>, cursos como <a href="https://alura.com.br" target="_blank">Alura</a>
 - 🤩️ Amo Instrumentos, e Cybersegurança
 - 💻 Busco sempre soluções inovadoras que resolva problemas do dia a dia.
 - 📫 Linkdin : [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-lucas-queiroz/).
+-  Inglês Intermediário
 - 😄 Pronouns: He/Him
 
 
-<details>
-<summary><h2>Resumo</h2></summary>
-<p align="justify">
-  Javeiro Web e Desktop, me tornando especialista em criação de RestApi com Spring dando suporte das aplicações mais atuais tanto quanto as legadas e possuindo conhecimentos essenciais para gerenciar meus sistemas, tenho conhecimento previo em entendimento de aplicações em microservice e monolitico , graduando em Sistema da Informação com planos de obter uma Pós graduação em Engenharia de Software , por fim além de especialista Java pretendo me tornar Pentester por amar segurança da informação, acesse minha página no instagram (_o_softwaredev).
-  </p>
-  </details>
 <hr>
 
 <details>
@@ -86,5 +82,6 @@
 <div align="center">
 <img width="450em" alt="Status Github João Lucas" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoaoLlucaxs&show_icons=true&theme=midnight-purple"/>
 <img width="450em" alt="Linguagens mais usadas" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JoaoLlucaxs&layout=compact&theme=midnight-purple"/>
+
 </div>
 
