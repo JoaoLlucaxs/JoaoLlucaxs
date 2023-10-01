@@ -1,5 +1,5 @@
 ### Opa ! tudo bem ?👋👨‍💻
-<h2> <i>Eu sou o João Lucas, Bem vindo ao meu mundo Java</i></h2>
+<h2> <i>Eu sou o João Lucas, Bem vindo ao meu mundo BackEnd</i></h2>
 
 <table align="center">
   <tr>
@@ -39,7 +39,7 @@
 
  <img src="https://user-images.githubusercontent.com/92184255/216349704-32038d23-c21a-4690-a283-4a508ede4365.png"  height="290px" align="right" />
 
-- 🔭 Mais de 2 anos de experiência , tenho autonomia na linguagem Java e seu ecossistema com intuito de me tornar especialista, por fim possuo conhecimento em FrontEnd.
+- 🔭 Mais de 2 anos de experiência , tenho autonomia na linguagem Java e Node , com intuito de me tornar especialista, por fim possuo conhecimento em FrontEnd.
 - Graduando na faculdade <a href="https://descomplica.com.br/" target="_blank">Descomplica Faculdade</a>, cursos como <a href="https://alura.com.br" target="_blank">Alura</a>
 - 🤩️ Amo Instrumentos, e Cybersegurança
 - 💻 Busco sempre soluções inovadoras que resolva problemas do dia a dia.
