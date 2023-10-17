@@ -1,5 +1,5 @@
 ### Opa ! tudo bem ?👋👨‍💻
-<h2> <i>Eu sou o João Lucas, Bem vindo ao meu mundo BackEnd</i></h2>
+<h2> <i>Bem vindo ao meu Github</i></h2>
 
 <table align="center">
   <tr>
@@ -14,32 +14,38 @@
   </tr>
 </table>
 
-<p align="left">
+<h2> 🛠 &nbsp;Tech Stack</h2>
+<h3>💻 &nbsp;Front-end:</h3>
+
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+![Gatsby](https://img.shields.io/badge/-Gatsby-333333?style=flat&logo=gatsby)
+![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
+
+<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
+
 <img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
-<img width="25" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" />
-<img width="30" height="30" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/groovy_logo.png" title="Groovy" alt="Groovy" /></code>
-<img width="25" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/html_logo.png" title="HTML" alt="HTML" />
-<img width="25" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/css_logo.png" title="CSS" alt="CSS" />
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+<img width="25" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" alt="MySQL"/></code>
 <img height="25" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/2331dded51784b78b8b66fd83037b2f2e28943e3/svg_logos/docker_logo.svg" title="Docker" alt="Docker" />
-<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title="Terminal" alt="Terminal">
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" title="Hibernate" alt="Hibernate" /></code>
 <img width="25" height="25" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_maven.svg" title="Apache Maven" alt="Apache Maven" /></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" /></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" title="Swagger - Open API" alt="Swagger - Open API" /></code>
-<img width="25" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/amazon_aws-icon.png" title="Amazon AWS" alt="Amazon AWS" /></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" alt="MySQL"/></code>
-<img width="25" height="25" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="Postgres SQL" alt="Postgres SQL"/></code>
-<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="GIT" alt="GIT">
-<img width="25" height="25" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/main/svg_logos/react-original-wordmark.svg" title="React JS" alt="React JS" />
-
 
 <hr>
 <h2> Sobre mim 🤟🏻</h2>
 
  <img src="https://user-images.githubusercontent.com/92184255/216349704-32038d23-c21a-4690-a283-4a508ede4365.png"  height="290px" align="right" />
 
-- 🔭 Mais de 2 anos de experiência , tenho autonomia na linguagem Java e Node , com intuito de me tornar especialista, por fim possuo conhecimento em FrontEnd.
+- 🔭 Mais de 2 anos de experiência , tenho autonomia na linguagem Java e JavaScript , com intuito de me tornar especialista, por fim possuo conhecimento em FrontEnd.
 - Graduando na faculdade <a href="https://descomplica.com.br/" target="_blank">Descomplica Faculdade</a>, cursos como <a href="https://alura.com.br" target="_blank">Alura</a>
 - 🤩️ Amo Instrumentos, e Cybersegurança
 - 💻 Busco sempre soluções inovadoras que resolva problemas do dia a dia.
@@ -77,7 +83,6 @@
 |Lógica e Algoritmos	 | Programação | Pratique | [Download](https://fit.faccat.br/~fpereira/apostilas/exerc_resp_alg_mar2007.pdf) |  
 </details>
 <hr>
-<img src=https://user-images.githubusercontent.com/92184255/216360385-e8171a7f-91c0-4a81-a18e-32d6f895e997.jpeg width="500" align='center'>
 <div align="center">
 <img width="450em" alt="Status Github João Lucas" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoaoLlucaxs&show_icons=true&theme=midnight-purple"/>
 <img width="450em" alt="Linguagens mais usadas" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JoaoLlucaxs&layout=compact&theme=midnight-purple"/>
