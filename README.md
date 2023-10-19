@@ -1,18 +1,5 @@
 ### Opa ! tudo bem ?👋👨‍💻
-<h2> <i>Bem vindo ao meu Github</i></h2>
-
-<table align="center">
-  <tr>
-    <td>
-      <b>
-        <a href="README.md">🇧🇷 Português</a>
-      </b>
-    </td>
-    <td>
-      <a href="readme-en.md">🇺🇸 English</a>
-    </td>
-  </tr>
-</table>
+<h2> <i>BackEnd / Analista</i></h2>
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
@@ -41,7 +28,7 @@
 
  <img src="https://user-images.githubusercontent.com/92184255/216349704-32038d23-c21a-4690-a283-4a508ede4365.png"  height="290px" align="right" />
 
-- 🔭 Mais de 2 anos de experiência , tenho autonomia na linguagem Java e JavaScript , com intuito de me tornar especialista, por fim possuo conhecimento em FrontEnd.
+- 🔭 Mais de 2 anos de experiência , tenho autonomia na linguagem Java atuando como BackEnd , Analista e conhecimento em C# ambos Web e Desktop , com intuito de me tornar especialista, por fim possuo conhecimento em FrontEnd.
 - Graduando na faculdade <a href="https://descomplica.com.br/" target="_blank">Descomplica Faculdade</a>, cursos como <a href="https://alura.com.br" target="_blank">Alura</a>
 - 🤩️ Amo Instrumentos, e Cybersegurança
 - 💻 Busco sempre soluções inovadoras que resolva problemas do dia a dia.
