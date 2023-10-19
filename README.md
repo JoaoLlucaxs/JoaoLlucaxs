@@ -66,8 +66,6 @@
 </details>
 <hr>
 <div align="center">
-<img width="450em" alt="Status Github João Lucas" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoaoLlucaxs&show_icons=true&theme=midnight-purple"/>
-<img width="450em" alt="Linguagens mais usadas" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JoaoLlucaxs&layout=compact&theme=midnight-purple"/>
-
+<img width="450em" alt="Status Github João Lucas" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoaoLlucaxs&show_icons=true&theme=midnight-orange"/>
 </div>
 
