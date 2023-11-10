@@ -3,16 +3,7 @@
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
-<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
-Por aqui, você encontrará alguns projetos focados no backend, usando as seguintes tecnologias:
-<p>-Java</p> 
-<p>-JSF</p>
-<p>-Spring Boot</p>
-<p>-Spring Cloud</p>
-<p>-Microsservicos</p>
-<p>-Redis</p>
-<p>-Docker</p>
-<p>-AWS</p>
+<h2>Por aqui, você encontrará alguns projetos focados no backend, usando as seguintes tecnologias:</h2>
 
 
 <img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
