@@ -1,5 +1,5 @@
 ### Opa ! tudo bem ?👋👨‍💻
-<h2> <i>Java Web FullStack / Analista</i></h2>
+<h2> <i>Dev Backend / Analista</i></h2>
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
