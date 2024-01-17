@@ -21,7 +21,7 @@
 
  <img src="https://user-images.githubusercontent.com/92184255/216349704-32038d23-c21a-4690-a283-4a508ede4365.png"  height="290px" align="right" />
 
-- 🔭 Com 2 anos e alguns meses, tenho autonomia como Java FullStack/Analista ambos Web e Desktop, com intuito de me tornar especialista Java.
+- 🔭 Com 2 anos e alguns meses, tenho autonomia como BackEnd/Analista ambos Web e Desktop, com intuito de me tornar especialista.
 - Graduando na faculdade <a href="https://descomplica.com.br/" target="_blank">Descomplica Faculdade</a>, cursos como <a href="https://alura.com.br" target="_blank">Alura</a>
 - 🤩️ Amo Instrumentos, e Cybersegurança
 - 💻 Busco sempre soluções inovadoras que resolva problemas do dia a dia.
