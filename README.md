@@ -1,9 +1,9 @@
-### Opa ! tudo bem ?👋👨‍💻
-<h2> <i>Dev Backend / Analista</i></h2>
+### Hi👋👨‍💻
+<h2> <i>Developer Backend / Analyst</i></h2>
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
-<h2>Por aqui, você encontrará alguns projetos focados no backend, usando as seguintes tecnologias:</h2>
+<h2>Here, you will see projects using backend technologies:</h2>
 
 
 <img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
@@ -17,28 +17,22 @@
 <img width="25" height="25" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_maven.svg" title="Apache Maven" alt="Apache Maven" /></code>
 
 <hr>
-<h2> Sobre mim 🤟🏻</h2>
+<h2> About me 🤟🏻</h2>
 
  <img src="https://user-images.githubusercontent.com/92184255/216349704-32038d23-c21a-4690-a283-4a508ede4365.png"  height="290px" align="right" />
 
-- 🔭 Com 2 anos e alguns meses, tenho autonomia como BackEnd/Analista ambos Web e Desktop, com intuito de me tornar especialista.
-- Graduando na faculdade <a href="https://descomplica.com.br/" target="_blank">Descomplica Faculdade</a>, cursos como <a href="https://alura.com.br" target="_blank">Alura</a>
-- 🤩️ Amo Instrumentos, e Cybersegurança
-- 💻 Busco sempre soluções inovadoras que resolva problemas do dia a dia.
-- 📫 Linkdin : [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-lucas-queiroz/).
--  Inglês Intermediário
+- 🔭 I'm a Java developer, working and improving my study on stacks such as Java Server Faces, Spring boot, AWS, SQL, Docker, RabitMQ and Kafka
+- Graduating in <a href="https://descomplica.com.br/" target="_blank">Uncomplicated College</a>, course outline <a href="https://alura.com.br" target="_blank">Alura</a> <a href="https://www.algaworks.com/" target="_blank">Algaworks</a>
+- I see myself in a few years as a Java and Pentester specialist
+- 💻 I look for solutions that add to the system 
+- 📫 Linkedin : [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-lucas-queiroz/).
+- English Intermediate
 - 😄 Pronouns: He/Him
 
 
 <hr>
 <details>
-<summary><h2>Desafios com Techs que aceito iniciar ⚡</h2>
-</summary>
- <strong>C# ,.NET</strong>
-</details>
-<hr>
-<details>
-<summary><h2>Alguns certificados</h2></summary>
+<summary><h2>Some certificates</h2></summary>
 
 | Titulo | Função| Situação | Baixe |
 | :---: | :---: | :---: | :---: |
@@ -49,7 +43,7 @@
 </details>
 <hr>
 <details>
-<summary><h2>Introdução JPA HIBERNATE👇🏻</h2></summary>
+<summary><h2>JPA HIBERNATE👇🏻</h2></summary>
 
 | Titulo | Função| Situação | Link |
 | :---: | :---: | :---: | :---: |
@@ -57,7 +51,7 @@
 </details>
 <hr>
 <details>
-<summary><h2>Teste sua lógica de Programação 👇🏻</h2></summary>
+<summary><h2>Programming Logic👇🏻</h2></summary>
 
 | Titulo | Função| Situação | Link |
 | :---: | :---: | :---: | :---: |
