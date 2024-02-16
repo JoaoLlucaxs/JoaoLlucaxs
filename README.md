@@ -58,7 +58,5 @@
 |Lógica e Algoritmos	 | Programação | Pratique | [Download](https://fit.faccat.br/~fpereira/apostilas/exerc_resp_alg_mar2007.pdf) |  
 </details>
 <hr>
-<div align="center">
-<img width="450em" alt="Status Github João Lucas" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoaoLlucaxs&show_icons=true&theme=midnight-orange"/>
-</div>
+
 
