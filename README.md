@@ -15,6 +15,9 @@
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring" alt="Spring" /></code>
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" title="Hibernate" alt="Hibernate" /></code>
 <img width="25" height="25" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_maven.svg" title="Apache Maven" alt="Apache Maven" /></code>
+<img width="25" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/amazon_aws-icon.png" title="Amazon AWS" alt="Amazon AWS" /></code>
+<img width="55" height="25" src="https://github.com/JoaoLlucaxs/Escopos_JSF/assets/92184255/f2cc0ade-9286-4e07-ad1c-c4635c0f1dc3" title="Java Server Faces" alt="JSF" />
+<img width="25" height="25" src="https://raw.githubusercontent.com/leandrocgsi/leandrocgsi/main/svg_logos/angularjs-original.svg" title="Angular JS" alt="Angular JS" />
 
 <hr>
 <h2> About me 🤟🏻</h2>
