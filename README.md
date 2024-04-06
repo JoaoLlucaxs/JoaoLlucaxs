@@ -24,9 +24,8 @@
 
  <img src="https://user-images.githubusercontent.com/92184255/216349704-32038d23-c21a-4690-a283-4a508ede4365.png"  height="290px" align="right" />
 
-- 🔭 I'm a Java developer, working and improving my study on stacks such as Java Server Faces, Spring boot, AWS, SQL, Docker, RabitMQ and Kafka
+- 🔭 I'm a Software Engineer, working and improving my study on stacks Java and C#
 - Graduating in <a href="https://descomplica.com.br/" target="_blank">Uncomplicated College</a>, course outline <a href="https://alura.com.br" target="_blank">Alura</a> <a href="https://www.algaworks.com/" target="_blank">Algaworks</a>
-- I see myself in a few years as a Java and Pentester specialist
 - 💻 I look for solutions that add to the system 
 - 📫 Linkedin : [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-lucas-queiroz/).
 - English Intermediate
