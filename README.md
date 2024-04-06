@@ -3,9 +3,6 @@
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
-<h2>Here, you will see projects using backend technologies:</h2>
-
-
 <img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
 <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" /></code>
 <img width="25" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/html_logo.png" title="HTML" alt="HTML" />
