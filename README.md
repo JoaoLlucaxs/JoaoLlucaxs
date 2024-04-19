@@ -18,7 +18,9 @@
 <img width="80" height="45" src="https://github.com/JoaoLlucaxs/JoaoLlucaxs/assets/92184255/835b0fe5-6afe-4756-b18d-baffcc00ec54" title="Java Server Faces" alt="JSF" />
 
 <hr>
-<h2> About me 🤟🏻</h2>
+<details>
+<summary><h2>About me</h2></summary>
+<h2> Hello!! 🤟🏻</h2>
 
  <img src="https://user-images.githubusercontent.com/92184255/216349704-32038d23-c21a-4690-a283-4a508ede4365.png"  height="290px" align="right" />
 
@@ -28,35 +30,8 @@
 - 📫 Linkedin : [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-lucas-queiroz/).
 - English Intermediate
 - 😄 Pronouns: He/Him
-
-
-<hr>
-<details>
-<summary><h2>Some certificates</h2></summary>
-
-| Titulo | Função| Situação | Baixe |
-| :---: | :---: | :---: | :---: |
-|Curso de JavaScript	 | JavaScript Avançado |Concluído | [Download](https://www.origamid.com/certificate/4796f568) |  
-|Metodologia Ágil Scrum | Empresa | Concluído | [Download](https://udemy-certificate.s3.amazonaws.com/pdf/UC-bcc6b9d2-5657-4242-b040-ab8b5b4f12c5.pdf) |
-| POO JAVA| Back-End | Completo | [Download](https://github.com/JoaoLlucaxs/JoaoLlucaxs/files/10688351/certificado.1.pdf) |
-| Java Swing Design | Back-end | Concluído | [Download](https://udemy-certificate.s3.amazonaws.com/image/UC-747926b1-562b-4fbf-bb8e-f2bdee9bf73c.jpg)
 </details>
-<hr>
-<details>
-<summary><h2>JPA HIBERNATE👇🏻</h2></summary>
 
-| Titulo | Função| Situação | Link |
-| :---: | :---: | :---: | :---: |
-|Entendendo o JPA	 | Programação | Leia | [Link](https://blog.algaworks.com/tutorial-jpa/) |  
-</details>
-<hr>
-<details>
-<summary><h2>Programming Logic👇🏻</h2></summary>
 
-| Titulo | Função| Situação | Link |
-| :---: | :---: | :---: | :---: |
-|Lógica e Algoritmos	 | Programação | Pratique | [Download](https://fit.faccat.br/~fpereira/apostilas/exerc_resp_alg_mar2007.pdf) |  
-</details>
-<hr>
 
 
