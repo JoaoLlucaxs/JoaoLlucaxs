@@ -15,7 +15,6 @@
 <img width="25" height="25" src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" title="Hibernate" alt="Hibernate" /></code>
 <img width="25" height="25" src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_maven.svg" title="Apache Maven" alt="Apache Maven" /></code>
 <img width="25" height="25" src="https://github.com/leandrocgsi/leandrocgsi/blob/main/svg_logos/amazon_aws-icon.png" title="Amazon AWS" alt="Amazon AWS" /></code>
-<img width="80" height="45" src="https://github.com/JoaoLlucaxs/JoaoLlucaxs/assets/92184255/835b0fe5-6afe-4756-b18d-baffcc00ec54" title="Java Server Faces" alt="JSF" />
 
 <hr>
 <details>
