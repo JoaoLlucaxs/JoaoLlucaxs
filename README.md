@@ -33,6 +33,8 @@
 - 😄 Pronouns: He/Him
 </details>
 
-
-
+<hr>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLlucaxs&layout=compact&theme=github_white" />
+</div>
 
