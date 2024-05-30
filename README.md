@@ -1,5 +1,5 @@
 ### Hi👋👨‍💻
-<h2> <i>Developer Backend / Analyst</i></h2>
+<h2> <i>Backend / Analista</i></h2>
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
