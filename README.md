@@ -34,8 +34,15 @@
 - 😄 Pronouns: He/Him
 </details>
 
+# &#x1f4c8; GitHub Stats
+
+<div align="center" style="display:flex;flex-direction:column">
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoaoLlucaxs&theme=yeblu)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JoaoLlucaxs&theme=yeblu)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoLlucaxs&theme=yeblu)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=JoaoLlucaxs&theme=yeblu)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JoaoLlucaxs&theme=yeblu&utcOffset=8)
+
 <hr>
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoLlucaxs&layout=compact&theme=github_white" />
-</div>
 
