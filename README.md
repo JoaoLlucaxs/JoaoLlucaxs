@@ -1,6 +1,14 @@
 ### Hi👋👨‍💻
 <h2> <i>Backend / Analista</i></h2>
 
+<table align="center">
+  <tr>
+    <td>
+      <a href="readme-en.md">🇺🇸 English</a>
+    </td>
+  </tr>
+</table>
+
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
 <img height="25" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" /></code>
