@@ -1,5 +1,5 @@
 ### Hi👋👨‍💻
-<h2> <i>Backend / Analista</i></h2>
+<h2> <i>TI</i></h2>
 
 <table align="center">
   <tr>
