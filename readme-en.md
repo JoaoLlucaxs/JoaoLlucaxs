@@ -1,5 +1,5 @@
 ### Hi👋👨‍💻
-<h2> <i>Analyst</i></h2>
+<h2> <i>João Lucas</i></h2>
 
 <table align="center">
   <tr>
